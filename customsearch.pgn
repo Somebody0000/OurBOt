@@ -1,0 +1,1066 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FSGZTRsO"]
+[Date "2021.04.20"]
+[White "OurBot"]
+[Black "kuklac858"]
+[Result "1-0"]
+[UTCDate "2021.04.20"]
+[UTCTime "07:55:51"]
+[WhiteElo "2197"]
+[BlackElo "2272"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C76"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 a6 5. Ba4 d6 6. d4 Bd7 7. Bg5 Be7 8. Bxe7 Qxe7 9. O-O Nf6 10. Nbd2 O-O 11. Re1 b5 12. Bc2 Rab8 13. h3 b4 14. Nc4 bxc3 15. bxc3 Kg7 16. a3 Rfe8 17. Ba4 h6 18. Qc2 Nh5 19. Ne3 Nf4 20. Nd5 Qd8 21. Rad1 Rb7 22. dxe5 dxe5 23. Nxf4 exf4 24. Bxc6 Bxc6 25. Rxd8 Rxd8 26. Nd4 Be8 27. Qd2 c5 28. Nf5+ 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/T6qGCTK4"]
+[Date "2021.04.20"]
+[White "OurBot"]
+[Black "kuklac858"]
+[Result "1-0"]
+[UTCDate "2021.04.20"]
+[UTCTime "07:53:50"]
+[WhiteElo "2169"]
+[BlackElo "2279"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C60"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. d4 a6 6. Ba4 d6 7. O-O Bd7 8. Be3 Nf6 9. Nbd2 O-O 10. Bc2 Qe7 11. d5 Nb8 12. Re1 c5 13. a4 b6 14. Nc4 Ra7 15. Nxb6 Rb7 16. Nc4 h6 17. h3 Nh5 18. Ra3 f5 19. exf5 gxf5 20. Nfxe5 dxe5 21. Qxh5 f4 22. Bd2 Be8 23. Qf3 Qf6 24. Rxe5 Bg6 25. Re6 Qf7 26. Bxg6 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tEi58pGF"]
+[Date "2021.04.20"]
+[White "OurBot"]
+[Black "kuklac858"]
+[Result "1-0"]
+[UTCDate "2021.04.20"]
+[UTCTime "07:40:21"]
+[WhiteElo "2345"]
+[BlackElo "2280"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C60"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Bc4 d6 7. d4 Bg4 8. Qb3 Qd7 9. Bxf7+ Qxf7 10. Qxb7 Nge7 11. Qxa8+ Kd7 12. Qxa6 Bxf3 13. Qd3 exd4 14. Qxf3 Qxf3 15. gxf3 dxc3 16. Nxc3 Nd4 17. f4 Rf8 18. Kg2 Bh6 19. Kg3 d5 20. Be3 c5 21. Rad1 dxe4 22. Nxe4 Nf5+ 23. Kh3 Kc6 24. Rc1 Kd5 25. Nxc5 Nxe3 26. fxe3 Ne2 27. Rfd1+ Kc6 28. Rc2 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/Q9k7nJjm"]
+[Date "2021.04.16"]
+[White "OurBot"]
+[Black "Appelle_moi_Fischer"]
+[Result "1-0"]
+[UTCDate "2021.04.16"]
+[UTCTime "13:57:47"]
+[WhiteElo "2395"]
+[BlackElo "1908"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "+0"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "C65"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 bxc6 6. Nxe5 d5 7. exd5 cxd5 8. O-O O-O 9. d4 Bd6 10. Nc3 Re8 11. Bg5 h6 12. Bxf6 Qxf6 13. Nxd5 Qg5 14. c4 Bxe5 15. dxe5 Rxe5 16. f4 Rxd5 17. fxg5 Rxd1 18. Rfxd1 Bg4 19. Rd5 Be6 20. Rc5 Rc8 21. gxh6 gxh6 22. b3 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/tDgCmwUM"]
+[Date "2021.04.15"]
+[White "OurBot"]
+[Black "Yakshwag"]
+[Result "1-0"]
+[UTCDate "2021.04.15"]
+[UTCTime "19:36:46"]
+[WhiteElo "2288"]
+[BlackElo "2154"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bb5 d5 5. exd5 exd5 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/43A36J2W"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "18:57:28"]
+[WhiteElo "2271"]
+[BlackElo "2009"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "90+4"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 b6 3. Nxe5 d6 4. Bb5+ Bd7 5. Nxd7 Nxd7 6. Nc3 a6 7. Bc6 Rc8 8. d4 Rb8 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/LOtP2ydV"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "18:54:35"]
+[WhiteElo "2271"]
+[BlackElo "2009"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "90+4"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Qe4+ 4. Be2 Nf6 5. O-O Nc6 6. Nc3 Qg4 7. d4 Bd7 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fCbfRYB1"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "SamannOyB"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "09:30:36"]
+[WhiteElo "2159"]
+[BlackElo "1708"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-1"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. Ne5 Nc6 6. Bb5 Bd6 7. Bxc6+ bxc6 8. Nxc6 Qd7 9. Nd4 Qc6 10. Nxc6 Bd7 11. Qf3 Bxc6 12. Qxc6+ Ke7 13. Qxa8 Nf6 14. Qxh8 Ne4 15. Nxe4 Bc5 16. Nxc5 f5 17. Qxg7+ Kd6 18. d4 Kd5 19. Qe5+ Kc6 20. Qxe6+ Kb5 21. a4+ Kb4 22. Bd2# 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/EcURMuXs"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "SlovakiaL"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "06:09:40"]
+[WhiteElo "2099"]
+[BlackElo "2073"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Bd3 Nf6 6. Nf3 Be7 7. O-O a6 8. Ne4 b5 9. a4 b4 10. Ne5 Bb7 11. Qf3 Qc8 12. Bh6 gxh6 13. Nxf6+ Bxf6 14. Qxf6 Rf8 15. Qxh6 Nd7 16. Rad1 c5 17. Bc4 cxd4 18. Bxe6 fxe6 19. Qxe6+ Kd8 20. Rxd4 Bc6 21. Rfd1 Ra7 22. Nxc6+ Kc7 23. Rxd7+ Kb6 24. Qe3+ Kxc6 25. R1d6# 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JVuX21S0"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "SlovakiaL"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "06:00:43"]
+[WhiteElo "2376"]
+[BlackElo "1960"]
+[WhiteRatingDiff "+29"]
+[BlackRatingDiff "-1"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Nf3 Nf6 6. Bc4 Be7 7. Bf4 a6 8. d5 b5 9. Bb3 Bb7 10. dxe6 Qxd1+ 11. Rxd1 fxe6 12. O-O O-O 13. Bxe6+ Kh8 14. Ne5 Nc6 15. Nf7+ Rxf7 16. Bxf7 Rg8 17. Bxg8 Kxg8 18. Bxc7 Nb4 19. Bd6 Bxd6 20. Rxd6 Nxc2 21. a3 Ne4 22. Rd8+ Kf7 23. Rd7+ Ke6 24. Rxb7 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/R1l250DH"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "TommyNelson"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:41:53"]
+[WhiteElo "2320"]
+[BlackElo "1462"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "+0"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "90+2"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O a6 5. Bxc6 bxc6 6. Nc3 d5 7. e5 f6 8. d4 cxd4 9. Qxd4 c5 10. Qh4 Be7 11. Re1 fxe5 12. Qh5+ g6 13. Qxe5 Qd6 14. Qxh8 Bf8 15. Qxg8 Qe7 16. Nxd5 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/MCnaepDJ"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:19:46"]
+[WhiteElo "2044"]
+[BlackElo "1861"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 g6 4. Nf3 Bg7 5. Be2 e6 6. O-O d6 7. Bg5 Qc8 8. Bb5+ c6 9. Bd3 b5 10. a4 a6 11. e5 d5 12. axb5 a5 13. Bh4 a4 14. b6 a3 15. bxa3 Rxa3 16. Rxa3 Qd7 17. Na4 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/FBy0GTPK"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:18:20"]
+[WhiteElo "2044"]
+[BlackElo "1861"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Bf4 Nf6 6. e5 Nd5 7. Nxd5 exd5 8. Qxd5 Nc6 9. Ne2 Bb4+ 10. Nc3 O-O 11. a3 Ba5 12. b4 Bc7 13. Qd2 Re8 14. Be2 Nxe5 15. Nd5 Bd6 16. O-O Ng6 17. Bxd6 Qc7 18. Nxc7 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/XKRkIsxH"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:17:00"]
+[WhiteElo "2044"]
+[BlackElo "1861"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 a6 2. d4 h6 3. Nc3 b6 4. Nf3 c6 5. d5 d6 6. Be2 e6 7. O-O c5 8. h3 b5 9. a3 a5 10. Bxb5+ Bd7 11. e5 Bxb5 12. Nxb5 Qb6 13. dxe6 Qxb5 14. exf7+ Kxf7 15. Qd5+ Ke8 16. Qxa8 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/zsAQWhCb"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:15:21"]
+[WhiteElo "2044"]
+[BlackElo "1861"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C01"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Qe2+ Be6 5. Nf3 Nf6 6. Ng5 Qc8 7. Nc3 h6 8. Nxe6 Qxe6 9. Bf4 Nc6 10. Nb5 Qxe2+ 11. Bxe2 Rc8 12. Bd3 Kd7 13. Bf5+ Kd8 14. Bxc8 Kxc8 15. O-O-O a6 16. Nxc7 Bd6 17. Bxd6 Rd8 18. Be5 Rd7 19. Na8 Kd8 20. Nb6 Ke7 21. Bxf6+ gxf6 22. Nxd7 Kxd7 23. c3 Kd6 24. Kc2 Ke6 25. Rhe1+ Kd7 26. Rd3 Kd6 27. Rf3 Kd7 28. Rxf6 Kc7 29. Rxf7+ Kb6 30. Rf5 Ka7 31. Rxd5 Kb8 32. Rh5 Ka8 33. d5 Ka7 34. dxc6 Kb6 35. cxb7 Ka7 36. Rxh6 Kb8 37. Rxa6 Kxb7 38. Ree6 Kb8 39. Re7 Kc8 40. Ra8# 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/M1zTPza5"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "TheCubingPiano"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:12:14"]
+[WhiteElo "1500"]
+[BlackElo "1474"]
+[WhiteRatingDiff "+236"]
+[BlackRatingDiff "-2"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. d4 b6 5. Bxc6+ 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/u2hEL4lv"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "VideoCake"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:11:45"]
+[WhiteElo "2320"]
+[BlackElo "1397"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C60"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f6 4. O-O Nge7 5. d4 d6 6. d5 Bd7 7. dxc6 Bxc6 8. Bxc6+ bxc6 9. Qd3 Qd7 10. Nc3 Rc8 11. Qa6 Rd8 12. Rd1 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/VdkcSqvq"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "XavierHall200"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:04:03"]
+[WhiteElo "2044"]
+[BlackElo "1500"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 f5 2. exf5 Kf7 3. Qh5+ Kf6 4. d4 Qe8 5. Qxe8 Kxf5 6. Qxf8+ Kg6 7. Bd3+ Kh5 8. Qf3+ Kh4 9. g3# 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/5sAa5Whn"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "XavierHall200"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:02:36"]
+[WhiteElo "2044"]
+[BlackElo "1500"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Qa5 5. Bd2 Qxa2 6. Rxa2 a6 7. Nb5 Ra7 8. Nxa7 Nc6 9. Nxc8 Kd8 10. Nb6 Na7 11. Nxd7 Kxd7 12. Ba5+ Ke8 13. Qd8# 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/d3jtyL6P"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "L0ad14ng"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "15:56:44"]
+[WhiteElo "1500"]
+[BlackElo "1981"]
+[WhiteRatingDiff "+714"]
+[BlackRatingDiff "-14"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Nc6 4. d4 exd4 5. Bg5 f6 6. Nxd4 fxg5 7. Bb5 Bd7 8. Nxc6 Bxc6 9. Qd5 Bxb5 10. Qxb5+ Qd7 11. Qxb7 Rd8 12. Nb5 Nf6 13. Nxc7+ Ke7 14. O-O-O Rc8 15. Nd5+ Nxd5 16. Qxd5 g6 17. Qxg5+ Ke8 18. Kb1 Bg7 19. Qd2 Rf8 20. Qb4 Qf7 21. Rxd6 Qe7 22. Qa4+ Kf7 23. Rd7 Qxd7 24. Qxd7+ Kg8 25. Qxa7 Rce8 26. Qe3 Rb8 27. b3 Rbe8 28. f4 Re7 29. Qc5 Ref7 30. g3 g5 31. Qxg5 Rf6 32. Qd5+ Kh8 33. e5 R6f7 34. c4 Re7 35. Rd1 Rfe8 36. b4 Rd7 37. Qxd7 Rd8 38. Qxd8+ Bf8 39. Qxf8# 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/WQo6u7Aj"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "14:56:31"]
+[WhiteElo "1500"]
+[BlackElo "1806"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Qxd4 g6 6. e5 Nc6 7. Bb5 Nd7 8. Bxc6 bxc6 9. exd6 exd6 10. Qxh8 Nf6 11. Bg5 Bg4 12. Bxf6 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/xjm2wG2e"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Aiden_Chen"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "14:12:48"]
+[WhiteElo "2034"]
+[BlackElo "2006"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C22"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd2 Bc5 5. a3 d6 6. b4 Bb6 7. Nf3 Nf6 8. Nc3 h6 9. b5 Ne5 10. Nxe5 dxe5 11. Qxd8+ Kxd8 12. Bc4 Ke7 13. O-O Bd4 14. Bd2 Be6 15. Bd3 a6 16. bxa6 Rxa6 17. Bxa6 Nxe4 18. Nxe4 Bxa1 19. Bb4+ Kd7 20. Nc5+ Kd6 21. Nxe6+ Kxe6 22. Bc4+ Kd7 23. Rxa1 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/WBYLuifR"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "keremyalcinchess123"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "13:33:39"]
+[WhiteElo "2034"]
+[BlackElo "1854"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C02"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 cxd4 8. Nxd4 Bc5 9. Qg4 Bxd4 10. Qxd4 Ne7 11. g4 Qa5 12. Bg5 Ng6 13. O-O-O Rc8 14. Be3 a6 15. f4 b5 16. f5 exf5 17. gxf5 Ne7 18. f6 Nf5 19. fxg7 Rg8 20. Qg4 Bd7 21. Nxd5 Rxg7 22. Nf6+ Ke7 23. Rxd7+ Ke6 24. Rd6+ Kxe5 25. Bf4# 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/LphWMbHr"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "10:28:16"]
+[WhiteElo "1500"]
+[BlackElo "1788"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. Bg5 Qb6 5. Nbd2 h6 6. Nc4 Qb4+ 7. Bd2 Qc5 8. Ncxe5 Nf6 9. b4 Qe7 10. Bc4 d5 11. Bxd5 Nxd5 12. exd5 f6 13. O-O fxe5 14. Re1 Nd7 15. c3 g6 16. Nxd4 Nf6 17. c4 Bf5 18. Bc3 O-O-O 19. Nxf5 gxf5 20. Bxe5 Ng4 21. Bxh8 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/CR8nmPRP"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "09:12:35"]
+[WhiteElo "1500"]
+[BlackElo "1788"]
+[WhiteRatingDiff "+544"]
+[BlackRatingDiff "-14"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 Nc6 5. cxd4 exd4 6. Nxd4 Bc5 7. Nb3 Bb6 8. Nc3 Nf6 9. Qd3 O-O 10. Be2 Nb4 11. Qb1 d5 12. O-O dxe4 13. Bg5 Bf5 14. g4 Bg6 15. Bxf6 Qxf6 16. Nxe4 Qc6 17. Bf3 Rfe8 18. Re1 Nc2 19. Nbd2 Nxe1 20. Qxe1 Bxe4 21. Nxe4 Qd7 22. Qc3 Rac8 23. Qb3 Qe6 24. Qxe6 Rxe6 25. a4 Rg6 26. Nc3 f5 27. h4 fxg4 28. Bxb7 Rb8 29. Bd5+ Kf8 30. Kg2 Bd4 31. Nb5 Bxb2 32. Ra2 Be5 33. Nxa7 g3 34. f3 Bd4 35. Nc6 Rb2+ 36. Rxb2 Bxb2 37. a5 Bc1 38. a6 Be3 39. Be4 Rd6 40. a7 Bxa7 41. Nxa7 Ra6 42. Nc6 h6 43. Kxg3 g5 44. hxg5 hxg5 45. Kg4 Ke8 46. Kxg5 Kd7 47. Nb8+ 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/NDOlizoc"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "07:08:38"]
+[WhiteElo "1500"]
+[BlackElo "1825"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 g6 4. d4 Bg7 5. dxc5 dxc5 6. Qxd8+ Kxd8 7. Bc4 Nc6 8. Be3 Nf6 9. Bxf7 e6 10. e5 Ke7 11. Ng5 Nd5 12. Bxc5+ Kd7 13. Bxe6+ Kd8 14. Nf7+ Kc7 15. Nxd5+ Kb8 16. Bd6# 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/i87M7qjP"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "06:53:53"]
+[WhiteElo "1500"]
+[BlackElo "2091"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. Bb5 Bd7 5. Bxc6 Bxc6 6. d4 cxd4 7. Nxd4 g6 8. Nxc6 bxc6 9. Qf3 Bg7 10. O-O Nf6 11. e5 dxe5 12. Qxc6+ Nd7 13. Rd1 Rc8 14. Qa6 O-O 15. Qxa7 Qc7 16. Rxd7 Qxa7 17. Rxa7 f5 18. Rxe7 Bf6 19. Rd7 e4 20. a4 Bxc3 21. bxc3 Rxc3 22. Bb2 Rxc2 23. Rg7+ Kh8 24. Be5 Re8 25. Re7+ 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FSGZTRsO"]
+[Date "2021.04.20"]
+[White "OurBot"]
+[Black "kuklac858"]
+[Result "1-0"]
+[UTCDate "2021.04.20"]
+[UTCTime "07:55:51"]
+[WhiteElo "2197"]
+[BlackElo "2272"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C76"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 a6 5. Ba4 d6 6. d4 Bd7 7. Bg5 Be7 8. Bxe7 Qxe7 9. O-O Nf6 10. Nbd2 O-O 11. Re1 b5 12. Bc2 Rab8 13. h3 b4 14. Nc4 bxc3 15. bxc3 Kg7 16. a3 Rfe8 17. Ba4 h6 18. Qc2 Nh5 19. Ne3 Nf4 20. Nd5 Qd8 21. Rad1 Rb7 22. dxe5 dxe5 23. Nxf4 exf4 24. Bxc6 Bxc6 25. Rxd8 Rxd8 26. Nd4 Be8 27. Qd2 c5 28. Nf5+ 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/T6qGCTK4"]
+[Date "2021.04.20"]
+[White "OurBot"]
+[Black "kuklac858"]
+[Result "1-0"]
+[UTCDate "2021.04.20"]
+[UTCTime "07:53:50"]
+[WhiteElo "2169"]
+[BlackElo "2279"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C60"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. d4 a6 6. Ba4 d6 7. O-O Bd7 8. Be3 Nf6 9. Nbd2 O-O 10. Bc2 Qe7 11. d5 Nb8 12. Re1 c5 13. a4 b6 14. Nc4 Ra7 15. Nxb6 Rb7 16. Nc4 h6 17. h3 Nh5 18. Ra3 f5 19. exf5 gxf5 20. Nfxe5 dxe5 21. Qxh5 f4 22. Bd2 Be8 23. Qf3 Qf6 24. Rxe5 Bg6 25. Re6 Qf7 26. Bxg6 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tEi58pGF"]
+[Date "2021.04.20"]
+[White "OurBot"]
+[Black "kuklac858"]
+[Result "1-0"]
+[UTCDate "2021.04.20"]
+[UTCTime "07:40:21"]
+[WhiteElo "2345"]
+[BlackElo "2280"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C60"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Bc4 d6 7. d4 Bg4 8. Qb3 Qd7 9. Bxf7+ Qxf7 10. Qxb7 Nge7 11. Qxa8+ Kd7 12. Qxa6 Bxf3 13. Qd3 exd4 14. Qxf3 Qxf3 15. gxf3 dxc3 16. Nxc3 Nd4 17. f4 Rf8 18. Kg2 Bh6 19. Kg3 d5 20. Be3 c5 21. Rad1 dxe4 22. Nxe4 Nf5+ 23. Kh3 Kc6 24. Rc1 Kd5 25. Nxc5 Nxe3 26. fxe3 Ne2 27. Rfd1+ Kc6 28. Rc2 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/Q9k7nJjm"]
+[Date "2021.04.16"]
+[White "OurBot"]
+[Black "Appelle_moi_Fischer"]
+[Result "1-0"]
+[UTCDate "2021.04.16"]
+[UTCTime "13:57:47"]
+[WhiteElo "2395"]
+[BlackElo "1908"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "+0"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "C65"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 bxc6 6. Nxe5 d5 7. exd5 cxd5 8. O-O O-O 9. d4 Bd6 10. Nc3 Re8 11. Bg5 h6 12. Bxf6 Qxf6 13. Nxd5 Qg5 14. c4 Bxe5 15. dxe5 Rxe5 16. f4 Rxd5 17. fxg5 Rxd1 18. Rfxd1 Bg4 19. Rd5 Be6 20. Rc5 Rc8 21. gxh6 gxh6 22. b3 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/tDgCmwUM"]
+[Date "2021.04.15"]
+[White "OurBot"]
+[Black "Yakshwag"]
+[Result "1-0"]
+[UTCDate "2021.04.15"]
+[UTCTime "19:36:46"]
+[WhiteElo "2288"]
+[BlackElo "2154"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bb5 d5 5. exd5 exd5 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/43A36J2W"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "18:57:28"]
+[WhiteElo "2271"]
+[BlackElo "2009"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "90+4"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 b6 3. Nxe5 d6 4. Bb5+ Bd7 5. Nxd7 Nxd7 6. Nc3 a6 7. Bc6 Rc8 8. d4 Rb8 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/LOtP2ydV"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "18:54:35"]
+[WhiteElo "2271"]
+[BlackElo "2009"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "90+4"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Qe4+ 4. Be2 Nf6 5. O-O Nc6 6. Nc3 Qg4 7. d4 Bd7 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fCbfRYB1"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "SamannOyB"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "09:30:36"]
+[WhiteElo "2159"]
+[BlackElo "1708"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-1"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. Ne5 Nc6 6. Bb5 Bd6 7. Bxc6+ bxc6 8. Nxc6 Qd7 9. Nd4 Qc6 10. Nxc6 Bd7 11. Qf3 Bxc6 12. Qxc6+ Ke7 13. Qxa8 Nf6 14. Qxh8 Ne4 15. Nxe4 Bc5 16. Nxc5 f5 17. Qxg7+ Kd6 18. d4 Kd5 19. Qe5+ Kc6 20. Qxe6+ Kb5 21. a4+ Kb4 22. Bd2# 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/EcURMuXs"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "SlovakiaL"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "06:09:40"]
+[WhiteElo "2099"]
+[BlackElo "2073"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Bd3 Nf6 6. Nf3 Be7 7. O-O a6 8. Ne4 b5 9. a4 b4 10. Ne5 Bb7 11. Qf3 Qc8 12. Bh6 gxh6 13. Nxf6+ Bxf6 14. Qxf6 Rf8 15. Qxh6 Nd7 16. Rad1 c5 17. Bc4 cxd4 18. Bxe6 fxe6 19. Qxe6+ Kd8 20. Rxd4 Bc6 21. Rfd1 Ra7 22. Nxc6+ Kc7 23. Rxd7+ Kb6 24. Qe3+ Kxc6 25. R1d6# 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JVuX21S0"]
+[Date "2021.04.14"]
+[White "OurBot"]
+[Black "SlovakiaL"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "06:00:43"]
+[WhiteElo "2376"]
+[BlackElo "1960"]
+[WhiteRatingDiff "+29"]
+[BlackRatingDiff "-1"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Nf3 Nf6 6. Bc4 Be7 7. Bf4 a6 8. d5 b5 9. Bb3 Bb7 10. dxe6 Qxd1+ 11. Rxd1 fxe6 12. O-O O-O 13. Bxe6+ Kh8 14. Ne5 Nc6 15. Nf7+ Rxf7 16. Bxf7 Rg8 17. Bxg8 Kxg8 18. Bxc7 Nb4 19. Bd6 Bxd6 20. Rxd6 Nxc2 21. a3 Ne4 22. Rd8+ Kf7 23. Rd7+ Ke6 24. Rxb7 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/R1l250DH"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "TommyNelson"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:41:53"]
+[WhiteElo "2320"]
+[BlackElo "1462"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "+0"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "90+2"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O a6 5. Bxc6 bxc6 6. Nc3 d5 7. e5 f6 8. d4 cxd4 9. Qxd4 c5 10. Qh4 Be7 11. Re1 fxe5 12. Qh5+ g6 13. Qxe5 Qd6 14. Qxh8 Bf8 15. Qxg8 Qe7 16. Nxd5 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/MCnaepDJ"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:19:46"]
+[WhiteElo "2044"]
+[BlackElo "1861"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 g6 4. Nf3 Bg7 5. Be2 e6 6. O-O d6 7. Bg5 Qc8 8. Bb5+ c6 9. Bd3 b5 10. a4 a6 11. e5 d5 12. axb5 a5 13. Bh4 a4 14. b6 a3 15. bxa3 Rxa3 16. Rxa3 Qd7 17. Na4 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/FBy0GTPK"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:18:20"]
+[WhiteElo "2044"]
+[BlackElo "1861"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Bf4 Nf6 6. e5 Nd5 7. Nxd5 exd5 8. Qxd5 Nc6 9. Ne2 Bb4+ 10. Nc3 O-O 11. a3 Ba5 12. b4 Bc7 13. Qd2 Re8 14. Be2 Nxe5 15. Nd5 Bd6 16. O-O Ng6 17. Bxd6 Qc7 18. Nxc7 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/XKRkIsxH"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:17:00"]
+[WhiteElo "2044"]
+[BlackElo "1861"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 a6 2. d4 h6 3. Nc3 b6 4. Nf3 c6 5. d5 d6 6. Be2 e6 7. O-O c5 8. h3 b5 9. a3 a5 10. Bxb5+ Bd7 11. e5 Bxb5 12. Nxb5 Qb6 13. dxe6 Qxb5 14. exf7+ Kxf7 15. Qd5+ Ke8 16. Qxa8 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/zsAQWhCb"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "chess_greece"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:15:21"]
+[WhiteElo "2044"]
+[BlackElo "1861"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C01"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Qe2+ Be6 5. Nf3 Nf6 6. Ng5 Qc8 7. Nc3 h6 8. Nxe6 Qxe6 9. Bf4 Nc6 10. Nb5 Qxe2+ 11. Bxe2 Rc8 12. Bd3 Kd7 13. Bf5+ Kd8 14. Bxc8 Kxc8 15. O-O-O a6 16. Nxc7 Bd6 17. Bxd6 Rd8 18. Be5 Rd7 19. Na8 Kd8 20. Nb6 Ke7 21. Bxf6+ gxf6 22. Nxd7 Kxd7 23. c3 Kd6 24. Kc2 Ke6 25. Rhe1+ Kd7 26. Rd3 Kd6 27. Rf3 Kd7 28. Rxf6 Kc7 29. Rxf7+ Kb6 30. Rf5 Ka7 31. Rxd5 Kb8 32. Rh5 Ka8 33. d5 Ka7 34. dxc6 Kb6 35. cxb7 Ka7 36. Rxh6 Kb8 37. Rxa6 Kxb7 38. Ree6 Kb8 39. Re7 Kc8 40. Ra8# 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/M1zTPza5"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "TheCubingPiano"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:12:14"]
+[WhiteElo "1500"]
+[BlackElo "1474"]
+[WhiteRatingDiff "+236"]
+[BlackRatingDiff "-2"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. d4 b6 5. Bxc6+ 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/u2hEL4lv"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "VideoCake"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:11:45"]
+[WhiteElo "2320"]
+[BlackElo "1397"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C60"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f6 4. O-O Nge7 5. d4 d6 6. d5 Bd7 7. dxc6 Bxc6 8. Bxc6+ bxc6 9. Qd3 Qd7 10. Nc3 Rc8 11. Qa6 Rd8 12. Rd1 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/VdkcSqvq"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "XavierHall200"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:04:03"]
+[WhiteElo "2044"]
+[BlackElo "1500"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 f5 2. exf5 Kf7 3. Qh5+ Kf6 4. d4 Qe8 5. Qxe8 Kxf5 6. Qxf8+ Kg6 7. Bd3+ Kh5 8. Qf3+ Kh4 9. g3# 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/5sAa5Whn"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "XavierHall200"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "17:02:36"]
+[WhiteElo "2044"]
+[BlackElo "1500"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Qa5 5. Bd2 Qxa2 6. Rxa2 a6 7. Nb5 Ra7 8. Nxa7 Nc6 9. Nxc8 Kd8 10. Nb6 Na7 11. Nxd7 Kxd7 12. Ba5+ Ke8 13. Qd8# 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/d3jtyL6P"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "L0ad14ng"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "15:56:44"]
+[WhiteElo "1500"]
+[BlackElo "1981"]
+[WhiteRatingDiff "+714"]
+[BlackRatingDiff "-14"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Nc6 4. d4 exd4 5. Bg5 f6 6. Nxd4 fxg5 7. Bb5 Bd7 8. Nxc6 Bxc6 9. Qd5 Bxb5 10. Qxb5+ Qd7 11. Qxb7 Rd8 12. Nb5 Nf6 13. Nxc7+ Ke7 14. O-O-O Rc8 15. Nd5+ Nxd5 16. Qxd5 g6 17. Qxg5+ Ke8 18. Kb1 Bg7 19. Qd2 Rf8 20. Qb4 Qf7 21. Rxd6 Qe7 22. Qa4+ Kf7 23. Rd7 Qxd7 24. Qxd7+ Kg8 25. Qxa7 Rce8 26. Qe3 Rb8 27. b3 Rbe8 28. f4 Re7 29. Qc5 Ref7 30. g3 g5 31. Qxg5 Rf6 32. Qd5+ Kh8 33. e5 R6f7 34. c4 Re7 35. Rd1 Rfe8 36. b4 Rd7 37. Qxd7 Rd8 38. Qxd8+ Bf8 39. Qxf8# 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/WQo6u7Aj"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "14:56:31"]
+[WhiteElo "1500"]
+[BlackElo "1806"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Qxd4 g6 6. e5 Nc6 7. Bb5 Nd7 8. Bxc6 bxc6 9. exd6 exd6 10. Qxh8 Nf6 11. Bg5 Bg4 12. Bxf6 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/xjm2wG2e"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Aiden_Chen"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "14:12:48"]
+[WhiteElo "2034"]
+[BlackElo "2006"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C22"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd2 Bc5 5. a3 d6 6. b4 Bb6 7. Nf3 Nf6 8. Nc3 h6 9. b5 Ne5 10. Nxe5 dxe5 11. Qxd8+ Kxd8 12. Bc4 Ke7 13. O-O Bd4 14. Bd2 Be6 15. Bd3 a6 16. bxa6 Rxa6 17. Bxa6 Nxe4 18. Nxe4 Bxa1 19. Bb4+ Kd7 20. Nc5+ Kd6 21. Nxe6+ Kxe6 22. Bc4+ Kd7 23. Rxa1 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/WBYLuifR"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "keremyalcinchess123"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "13:33:39"]
+[WhiteElo "2034"]
+[BlackElo "1854"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C02"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 cxd4 8. Nxd4 Bc5 9. Qg4 Bxd4 10. Qxd4 Ne7 11. g4 Qa5 12. Bg5 Ng6 13. O-O-O Rc8 14. Be3 a6 15. f4 b5 16. f5 exf5 17. gxf5 Ne7 18. f6 Nf5 19. fxg7 Rg8 20. Qg4 Bd7 21. Nxd5 Rxg7 22. Nf6+ Ke7 23. Rxd7+ Ke6 24. Rd6+ Kxe5 25. Bf4# 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/LphWMbHr"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "10:28:16"]
+[WhiteElo "1500"]
+[BlackElo "1788"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. Bg5 Qb6 5. Nbd2 h6 6. Nc4 Qb4+ 7. Bd2 Qc5 8. Ncxe5 Nf6 9. b4 Qe7 10. Bc4 d5 11. Bxd5 Nxd5 12. exd5 f6 13. O-O fxe5 14. Re1 Nd7 15. c3 g6 16. Nxd4 Nf6 17. c4 Bf5 18. Bc3 O-O-O 19. Nxf5 gxf5 20. Bxe5 Ng4 21. Bxh8 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/CR8nmPRP"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "09:12:35"]
+[WhiteElo "1500"]
+[BlackElo "1788"]
+[WhiteRatingDiff "+544"]
+[BlackRatingDiff "-14"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 Nc6 5. cxd4 exd4 6. Nxd4 Bc5 7. Nb3 Bb6 8. Nc3 Nf6 9. Qd3 O-O 10. Be2 Nb4 11. Qb1 d5 12. O-O dxe4 13. Bg5 Bf5 14. g4 Bg6 15. Bxf6 Qxf6 16. Nxe4 Qc6 17. Bf3 Rfe8 18. Re1 Nc2 19. Nbd2 Nxe1 20. Qxe1 Bxe4 21. Nxe4 Qd7 22. Qc3 Rac8 23. Qb3 Qe6 24. Qxe6 Rxe6 25. a4 Rg6 26. Nc3 f5 27. h4 fxg4 28. Bxb7 Rb8 29. Bd5+ Kf8 30. Kg2 Bd4 31. Nb5 Bxb2 32. Ra2 Be5 33. Nxa7 g3 34. f3 Bd4 35. Nc6 Rb2+ 36. Rxb2 Bxb2 37. a5 Bc1 38. a6 Be3 39. Be4 Rd6 40. a7 Bxa7 41. Nxa7 Ra6 42. Nc6 h6 43. Kxg3 g5 44. hxg5 hxg5 45. Kg4 Ke8 46. Kxg5 Kd7 47. Nb8+ 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/NDOlizoc"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "07:08:38"]
+[WhiteElo "1500"]
+[BlackElo "1825"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 g6 4. d4 Bg7 5. dxc5 dxc5 6. Qxd8+ Kxd8 7. Bc4 Nc6 8. Be3 Nf6 9. Bxf7 e6 10. e5 Ke7 11. Ng5 Nd5 12. Bxc5+ Kd7 13. Bxe6+ Kd8 14. Nf7+ Kc7 15. Nxd5+ Kb8 16. Bd6# 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/i87M7qjP"]
+[Date "2021.04.13"]
+[White "OurBot"]
+[Black "Palko_hra_sach"]
+[Result "1-0"]
+[UTCDate "2021.04.13"]
+[UTCTime "06:53:53"]
+[WhiteElo "1500"]
+[BlackElo "2091"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. Bb5 Bd7 5. Bxc6 Bxc6 6. d4 cxd4 7. Nxd4 g6 8. Nxc6 bxc6 9. Qf3 Bg7 10. O-O Nf6 11. e5 dxe5 12. Qxc6+ Nd7 13. Rd1 Rc8 14. Qa6 O-O 15. Qxa7 Qc7 16. Rxd7 Qxa7 17. Rxa7 f5 18. Rxe7 Bf6 19. Rd7 e4 20. a4 Bxc3 21. bxc3 Rxc3 22. Bb2 Rxc2 23. Rg7+ Kh8 24. Be5 Re8 25. Re7+ 1-0
+
+
