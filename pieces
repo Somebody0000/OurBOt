@@ -10,3 +10,14 @@ chess.KING: 50000
 }
 
 board = chess.Board(chess.STARTING_FEN)
+white_material = 0
+black_material = 0
+
+for square in chess.SQUARES:
+piece = board.piece_at(square)
+if not piece: 
+continue
+if piece.color == chess.WHITE:
+white_material += piece_values [piece.piece_type]
+else:
+black_material += piece_values [piece.piece_type]
