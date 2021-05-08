@@ -1,0 +1,15 @@
+Import chess
+
+board = chess.Board()
+
+board.Legal_moves
+>LegalMovesGenerator at ... (Nh3, Nf3, Nc3, Na3, h3, h4, g3, g4, f3, f4, e3, e4, d3, d4, c3, c4, b3, b4, a3, a4)>
+chess.Move.from._uci ("a8a1") in board.legal_moves
+False
+
+board.push_san ("f3")
+Move.from_uci ('f2f3')
+board.push_san ("e5")
+Move.from_uci ('e7e5')
+board.push_san ("Kf2")
+Move.from_uci ('e1f2')
