@@ -1,0 +1,12 @@
+import chess
+
+piece_values = {
+chess.PAWN: 85,
+chess:KNIGHT: 310,
+chess.BISHOP: 330,
+chess.ROOK: 550
+chess.QUEEN: 990
+chess.KING: 50000
+}
+
+board = chess.Board(chess.STARTING_FEN)
